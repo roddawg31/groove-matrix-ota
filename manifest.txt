@@ -1,4 +1,4 @@
-version=3.6.3
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.6.3
-md5=59ee8e7a0972ab43188bade1d5bd3f4e
-size=1296000
+version=3.6.4
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.6.4
+md5=292432addc9b8eee8760ab83e6dcb803
+size=1299184
