@@ -1,7 +1,7 @@
-version=3.9.0
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.9.0
-md5=e460a5013f615168fb305f41ba73b98e
-sha256=0f151c60073ceec731436033061073ca2605a02915f27d28bd0655fc8cd7b474
-notes=Add signed OTA checks and rollback validation
+version=3.9.1
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.9.1
+md5=b1718c91327d2fc8af1eb807a76319e3
+sha256=4ea585c0a7750f5ba9d79e6fdf0f6372d1addab50b820b2a377ff2be8869c4ef
+notes=Bump firmware to 3.9.1 for OTA validation
 signed=1
 size=1320832
