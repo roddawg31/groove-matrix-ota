@@ -1,7 +1,7 @@
-version=3.9.4
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.9.4
-md5=6aaf51c65b937082e99ea1c29d56ec42
-sha256=92ea630a1ef3d2bde5294867e84deebea58f0c5fdee2d0eda5d16d7196526745
-notes=Hold OTA feed at validated firmware 3.9.4
+version=3.13.2
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.13.2
+md5=117e514e4621f96e402c7e7ad55951f8
+sha256=e926254db510d51330b8ef431c98065016962a59dd64edfb019f98b08486b2f1
+notes=Polish merch showcase accents
 signed=1
-size=1322720
+size=1344768
