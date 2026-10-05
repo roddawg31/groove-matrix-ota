@@ -1,7 +1,7 @@
-version=3.14.1
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.1
-md5=dc8c9afed6550939d36a641ac27955be
-sha256=64d0592e21a814bf858e90ad10b72241a1ba9527ce05db05a918bfb4996d8d08
-notes=Recompose Seattle Idle World scene with depth
+version=3.14.2
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.2
+md5=35bed67e074d5eeba9eb01d7291467ac
+sha256=2b6ef298d5b590e614c3d068500d1fb1c94f8223578360e3c06879e8541c8c20
+notes=Rework Idle World scene compositions
 signed=1
 size=1351744
