@@ -1,7 +1,7 @@
-version=3.14.20
+version=3.15.0
 url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware.bin?ref=main
-md5=66758564bd5a0714e7945f2b166982e1
-sha256=59a6a88686eb48505b6c81ac0f5246f8c8741aef58563b3b54499dbe30583b33
-notes=Rework Idle World scene compositions
+md5=d11c5b668a418490a875eba4725fac42
+sha256=c49e6e849d02b9296d57f676e9dd5f559e412b3b9ce9b77eeea24893f865b87e
+notes=Rebuild Idle World scenes with layered depth
 signed=1
-size=1353136
+size=1354256
