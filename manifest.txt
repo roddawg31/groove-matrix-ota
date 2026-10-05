@@ -1,7 +1,7 @@
-version=3.14.0
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.0
-md5=5fc37ede9e72dc237c54bce45b8906c2
-sha256=013081a2d79790ecad221e3da528524f5dfa3c383242ea1b9b1c2060e556d764
-notes=Bump Idle World release to 3.14.0
+version=3.14.1
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.1
+md5=dc8c9afed6550939d36a641ac27955be
+sha256=64d0592e21a814bf858e90ad10b72241a1ba9527ce05db05a918bfb4996d8d08
+notes=Recompose Seattle Idle World scene with depth
 signed=1
-size=1350160
+size=1351744
