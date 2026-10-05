@@ -1,7 +1,7 @@
-version=3.13.2
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.13.2
-md5=117e514e4621f96e402c7e7ad55951f8
-sha256=e926254db510d51330b8ef431c98065016962a59dd64edfb019f98b08486b2f1
-notes=Polish merch showcase accents
+version=3.14.0
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.0
+md5=5fc37ede9e72dc237c54bce45b8906c2
+sha256=013081a2d79790ecad221e3da528524f5dfa3c383242ea1b9b1c2060e556d764
+notes=Bump Idle World release to 3.14.0
 signed=1
-size=1344768
+size=1350160
