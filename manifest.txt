@@ -1,7 +1,7 @@
-version=3.16.0
+version=3.16.1
 url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware.bin?ref=main
-md5=4f18e7917ae44e312da3c82d18465144
-sha256=8a773c9c6d331a2cb49166911d3fe9841cfa38614c0184b68c05e1f55f44f72e
-notes=Merge remote-tracking branch 'origin/main'
+md5=7de1133cca7c16f7588590ebd8ef2a83
+sha256=7cc4c8b877250c9b42ba57572c2b14eab7dd98ff5352444239ccd2dbd9d1446f
+notes=Reserve OTA memory before TLS download
 signed=1
-size=1362560
+size=1362896
