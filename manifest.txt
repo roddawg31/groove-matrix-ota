@@ -1,7 +1,7 @@
-version=3.14.14
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.14
-md5=21e674ef7cf72882d3a7c2553db4be1b
-sha256=d21848403165866342a0903f425166e1e4dcc78ed388b7558c01cb361cbce611
+version=3.14.15
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.14.15
+md5=67d628a9c429d932fa87bab9fd3a7524
+sha256=fb7ad2e31dcef5a1b5c7ee8423701ab20fe8b1719f95709724934024142bdbf1
 notes=Rework Idle World scene compositions
 signed=1
-size=1352576
+size=1352992
