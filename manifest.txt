@@ -1,7 +1,7 @@
-version=3.15.0
+version=3.15.2
 url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware.bin?ref=main
-md5=d11c5b668a418490a875eba4725fac42
-sha256=c49e6e849d02b9296d57f676e9dd5f559e412b3b9ce9b77eeea24893f865b87e
-notes=Rebuild Idle World scenes with layered depth
+md5=ecf032c88d2f47aae5adb0511340deee
+sha256=4a0009de4f2272039648958bc2de1663fa629e04d8a78e861aa67a611e561615
+notes=Polish Seattle landmarks and tolerate slow OTA streams
 signed=1
-size=1354256
+size=1354320
