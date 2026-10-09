@@ -1,7 +1,7 @@
-version=3.16.2
+version=3.16.3
 url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware.bin?ref=main
-md5=822a7a618415e26b5e4c30b975e5228e
-sha256=9272a9b48794d0c02c12a63dd99647fde4429731f796f2848a4242e894b6363e
-notes=Sync Idle World with local daylight
+md5=d98621b12610b713ee5ad8597e9128fb
+sha256=ca9e24cb6f96fd41e44190f4bab1f2b57e2a110aa1fe486e84fc8eb10108c083
+notes=Polish Idle World weather and Seattle landmark
 signed=1
-size=1366096
+size=1366864
