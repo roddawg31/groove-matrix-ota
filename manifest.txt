@@ -1,7 +1,7 @@
 version=3.16.3
-url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware.bin?ref=main
-md5=d98621b12610b713ee5ad8597e9128fb
-sha256=ca9e24cb6f96fd41e44190f4bab1f2b57e2a110aa1fe486e84fc8eb10108c083
-notes=Polish Idle World weather and Seattle landmark
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware.bin?v=3.16.3
+md5=ef420963ed4bd36d0a2cf044ab55082b
+sha256=fd416b5055468081c5ed58ee0fe018bc2633c5872d46e1c85823167fd8c92e11
+notes=Serve OTA firmware from the fast raw endpoint
 signed=1
 size=1366864
