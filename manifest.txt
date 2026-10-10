@@ -1,7 +1,7 @@
-version=3.16.28
-url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.28-4a645825bd3d.bin?ref=main
-md5=e3f784002dd71d571cdac23a66702bab
-sha256=4a645825bd3d6d71b0f3e02b48e299beff6612cf285663718c8c4946d49a1be1
-notes=Close broad gaps in dense Idle World clouds
+version=3.16.29
+url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.29-4de0875ddddf.bin?ref=main
+md5=81d2212a1d07de33ead4fb600f123d6f
+sha256=4de0875ddddffe17a86c8c65c133b4f696021af2cb8a45992204ac681b7ea1c5
+notes=Close cloud gaps at moderate overcast
 signed=1
-size=1378128
+size=1378144
