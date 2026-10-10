@@ -1,7 +1,7 @@
-version=3.16.27
-url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.27-acbb6f590555.bin?ref=main
-md5=92361f66f414c8905d17d66e5cf49d43
-sha256=acbb6f590555e446daa6d5e488112c15a74e434f58e237236711de8bebe26f8d
-notes=Route OTA firmware through GitHub Contents API
+version=3.16.28
+url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.28-4a645825bd3d.bin?ref=main
+md5=e3f784002dd71d571cdac23a66702bab
+sha256=4a645825bd3d6d71b0f3e02b48e299beff6612cf285663718c8c4946d49a1be1
+notes=Close broad gaps in dense Idle World clouds
 signed=1
-size=1378080
+size=1378128
