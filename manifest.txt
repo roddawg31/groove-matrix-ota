@@ -1,7 +1,7 @@
-version=3.16.3
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware-3.16.3-e53b13c7fc7f.bin
-md5=97f237ee8f92fb3cc2adc54f828da952
-sha256=e53b13c7fc7f022a0a26bce6664384e344b66a81cd6c4042f713758836450378
-notes=Serve OTA firmware from the fast raw endpoint
+version=3.16.27
+url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware-3.16.27-98d5d0796ba9.bin
+md5=a104ee8adb8b053850846568698dc2b8
+sha256=98d5d0796ba9fa2dbdad821c40b31834461a8da11433972605dc68233defb229
+notes=Improve Idle World weather coverage and wind response
 signed=1
-size=1366864
+size=1378080
