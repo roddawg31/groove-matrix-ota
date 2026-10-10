@@ -1,7 +1,7 @@
 version=3.16.27
-url=https://raw.githubusercontent.com/roddawg31/groove-matrix-ota/main/firmware-3.16.27-98d5d0796ba9.bin
-md5=a104ee8adb8b053850846568698dc2b8
-sha256=98d5d0796ba9fa2dbdad821c40b31834461a8da11433972605dc68233defb229
-notes=Improve Idle World weather coverage and wind response
+url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.27-acbb6f590555.bin?ref=main
+md5=92361f66f414c8905d17d66e5cf49d43
+sha256=acbb6f590555e446daa6d5e488112c15a74e434f58e237236711de8bebe26f8d
+notes=Route OTA firmware through GitHub Contents API
 signed=1
 size=1378080
