@@ -1,7 +1,7 @@
-version=3.16.30
-url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.30-aff1d0145b8a.bin?ref=main
-md5=8a1ac79c3f897fbfbb2c3edaaf652972
-sha256=aff1d0145b8a0c59436d0686ff68ef7993b66ea195500f8e7ded2755df736560
+version=3.16.31
+url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.31-e9ce6dc0e02c.bin?ref=main
+md5=1d4f1f13ae1e98d1d547fc19c3858db8
+sha256=e9ce6dc0e02c78b66e6a6d30d64bcb3767e8762ab9e559d298cc484e08d59f8b
 notes=Improve field reliability and OTA progress
 signed=1
-size=1388976
+size=1389152
