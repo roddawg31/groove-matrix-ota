@@ -1,7 +1,7 @@
-version=3.16.29
-url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.29-4de0875ddddf.bin?ref=main
-md5=81d2212a1d07de33ead4fb600f123d6f
-sha256=4de0875ddddffe17a86c8c65c133b4f696021af2cb8a45992204ac681b7ea1c5
-notes=Close cloud gaps at moderate overcast
+version=3.16.30
+url=https://api.github.com/repos/roddawg31/groove-matrix-ota/contents/firmware-3.16.30-aff1d0145b8a.bin?ref=main
+md5=8a1ac79c3f897fbfbb2c3edaaf652972
+sha256=aff1d0145b8a0c59436d0686ff68ef7993b66ea195500f8e7ded2755df736560
+notes=Improve field reliability and OTA progress
 signed=1
-size=1378144
+size=1388976
